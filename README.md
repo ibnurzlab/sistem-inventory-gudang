@@ -4,6 +4,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tanpa Build](https://img.shields.io/badge/build-tanpa_build_step-22c55e?style=flat-square)
+[![Demo Online](https://img.shields.io/badge/demo-online-3b82f6?style=flat-square&logo=githubpages&logoColor=white)](https://ibnurzlab.github.io/sistem-inventory-gudang/)
 ![Lisensi](https://img.shields.io/badge/lisensi-MIT-blue?style=flat-square)
 
 Sistem inventory dan manajemen gudang berbasis web yang **ringan, tanpa instalasi, dan tanpa backend**. Cukup satu file `index.html`, seluruh data tersimpan otomatis di **localStorage** browser sehingga aplikasi dapat dipakai sepenuhnya secara offline.
@@ -12,9 +13,25 @@ Dirancang untuk kebutuhan gudang skala kecil–menengah: pencatatan stok, mutasi
 
 ---
 
+## 🔗 Demo Langsung
+
+**https://ibnurzlab.github.io/sistem-inventory-gudang/**
+
+Masuk menggunakan salah satu akun demo berikut:
+
+| Peran | Username | Kata Sandi |
+| :--- | :--- | :--- |
+| Admin | `admin` | `admin123` |
+| Staf Gudang | `staf` | `staf123` |
+
+> Demo ini berjalan sepenuhnya di browser Anda — data yang Anda input hanya tersimpan di perangkat sendiri dan tidak dikirim ke mana pun.
+
+---
+
 ## 📑 Daftar Isi
 
 - [Fitur Utama](#-fitur-utama)
+- [Demo Langsung](#-demo-langsung)
 - [Autentikasi & Peran Pengguna](#-autentikasi--peran-pengguna)
 - [Teknologi](#-teknologi)
 - [Struktur Proyek](#-struktur-proyek)
