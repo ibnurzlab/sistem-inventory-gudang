@@ -1,0 +1,24 @@
+# --- Sistem Operasi ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Log & Berkas Sementara ---
+*.log
+npm-debug.log*
+*.tmp
+*.bak
+
+# --- Dependensi (bila nanti ditambahkan) ---
+node_modules/
+dist/
+.env
+.env.local

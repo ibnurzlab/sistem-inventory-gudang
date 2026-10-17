@@ -1,0 +1,10 @@
+# Normalisasi akhir baris agar konsisten antar sistem operasi
+* text=auto eol=lf
+
+# Berkas biner
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
